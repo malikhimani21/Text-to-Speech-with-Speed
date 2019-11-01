@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="speed">
+        <item>Normal</item>
+        <item>Very Slow</item>
+        <item>Slow</item>
+        <item>Fast</item>
+        <item>Very Fast</item>
+    </string-array>
+
+</resources>
